@@ -1,0 +1,1 @@
+PSTART 21-04-2021 18:50:13 T00 21-04 17:21 +24 C PSTOP with response time = 12ms | Sensor 0: +24°C
